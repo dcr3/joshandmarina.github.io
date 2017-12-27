@@ -20,23 +20,21 @@ the University of Southern California.
 Upon graduation, Josh moved to LA and accepted a job at a small software
 security startup, finally ending the distance between the two after a year
 and a half. In 2015, Josh adopted Max, an energetic and cuddly small white
-poodle, from the local animal shelter. Marina quickly grew to love her new
-"study buddy" and they have been inseparable ever since... Max has even
-learned to fly on the plane!
+poodle from the local animal shelter. Marina quickly grew to love her new
+"study buddy" and they have been inseparable ever since.
 
 ![Max](/img/max.jpg)
 
-In 2017, Marina graduated from USC with her sights set on Medical School at
-the University of Virginia. During their post-graduation vacation to the
-island of Kauai, Josh proposed at sunset along the beach. After the trip,
-belongings were once again piled into a vehicle to embark on yet another
-cross-country drive. This time, however, a moving truck was required, and
-more stops along the way were planned. They drove the truck from LA to
-Frankfort, KY, and then to Charlottesville, Virginia, stopping at five
-national parks along the way. They now reside in Charlottesville where Marina
-is a Med student, Josh works from home at the same job he got when moving to
-LA, and Max is incredibly happy to laze on the couch when not zooming around
-the apartment.
+In 2017, Marina graduated from USC with her sights set on medical school at
+the University of Virginia. During a post-graduation vacation to the
+island of Kauai, Josh proposed at sunset on the beach. Ready to start a new chapter 
+in their life together, Josh and Marina piled their belongings into a moving truck
+and drove from LA to Charlottesville, Virginia, stopping at as many national parks 
+along the way as possible. They now reside in Charlottesville, where Marina attends 
+medical school. Josh decided to keep his LA job and now works from home. Max has 
+adapted to the move well, and is incredibly happy to alternately laze on the couch 
+and zoom around the apartment. Marina and Josh enjoy hiking in the nearby 
+Shenandoah National Park and exploring local craft breweries together during their free time.
 
 {{% parallax img="/img/tinyfieldtrees-cropped.jpg" height="1000px" %}}Ceremony{{% /parallax %}}
 
@@ -72,9 +70,8 @@ Valet parking will be provided - gratuities have been covered!
 
 ## Cuisine
 
-Marina and Josh eat a diet of seafood and vegetebles, so you can expect an
-assortment of delicious fish and vegetarian cocktail-style dishes
-and small plates, along with an open bar.
+An assortment of delicious fish and vegetarian small plates, 
+along with an open bar, will be provided at the reception venue.
 
 {{% parallax img="/img/throughleaves.jpg" height="800px" %}}Accommodations{{% /parallax %}}
 
